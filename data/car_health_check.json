@@ -79,26 +79,28 @@
       }
     }
   },
-  "users": {
-    "1": {
-      "first_name": "Frodo",
-      "last_name": "Baggins",
-      "car_id": "1"
-    },
-    "2": {
-      "first_name": "Sam",
-      "last_name": "Gamgee",
-      "car_id": "2"
-    },
-    "3": {
-      "first_name": "Harry",
-      "last_name": "Potter",
-      "car_id": "3"
-    },
-    "4": {
-      "first_name": "Tyrion",
-      "last_name": "Lannester",
-      "car_id": "4"
+  "users": [
+    {
+      "1": {
+        "first_name": "Frodo",
+        "last_name": "Baggins",
+        "car_id": "1"
+      },
+      "2": {
+        "first_name": "Sam",
+        "last_name": "Gamgee",
+        "car_id": "2"
+      },
+      "3": {
+        "first_name": "Harry",
+        "last_name": "Potter",
+        "car_id": "3"
+      },
+      "4": {
+        "first_name": "Tyrion",
+        "last_name": "Lannester",
+        "car_id": "4"
+      }
     }
-  }
+  ]
 }
