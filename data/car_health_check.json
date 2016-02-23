@@ -1,6 +1,6 @@
 {
-  "cars": {
-    "1": {
+  "cars": [
+      {
       "brand": "ford",
       "model": "focus",
       "year": "2005",
@@ -78,7 +78,7 @@
         }
       }
     }
-  },
+  ],
   "users": [
       {
         "first_name": "Frodo",
