@@ -60,7 +60,7 @@
               "age": "7",
               "miles_used": "3000",
               "status": "failed",
-              "estimated_health_percentage": "14"
+              "estimated_health_percentage": "99"
             },
             {
               "name": "front_brake_left",
@@ -76,7 +76,7 @@
               "age": "7",
               "miles_used": "3000",
               "status": "working",
-              "estimated_health_percentage": "72"
+              "estimated_health_percentage": "65"
             },
             {
               "name": "catalytic_converter",
@@ -84,7 +84,7 @@
               "age": "7",
               "miles_used": "3000",
               "status": "working",
-              "estimated_health_percentage": "72"
+              "estimated_health_percentage": "69"
             }
         ]
     }
