@@ -194,13 +194,13 @@
         "id": 3,
         "first_name": "Harry",
         "last_name": "Potter",
-        "car_id": 1
+        "car_id": 3
       },
       {
         "id": 4,
         "first_name": "Tyrion",
         "last_name": "Lannester",
-        "car_id": 2
+        "car_id": 4
       }
   ]
 }
