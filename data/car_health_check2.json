@@ -87,6 +87,94 @@
               "estimated_health_percentage": 69
             }
         ]
+    },
+    {
+      "id": 3,
+      "brand": "Ford",
+      "model": "Fiesto",
+      "year": "2006",
+      "last_mot": "16/05/2014",
+      "mot_due": "12/03/2015",
+      "last_service": "17/07/2015",
+      "car_plan": "something.jpg",
+      "parts": [
+            {
+              "name": "shock_absorber",
+              "brand": "G&H",
+              "age": "7",
+              "miles_used": "3000",
+              "status": "failed",
+              "estimated_health_percentage": 30
+            },
+            {
+              "name": "front_brake_left",
+              "brand": "fiat",
+              "age": "3",
+              "miles_used": "400",
+              "status": "working",
+              "estimated_health_percentage": 1
+            },
+            {
+              "name": "front_brake_right",
+              "brand": "fiat",
+              "age": "7",
+              "miles_used": "3000",
+              "status": "working",
+              "estimated_health_percentage": 1
+            },
+            {
+              "name": "catalytic_converter",
+              "brand": "fiat",
+              "age": "7",
+              "miles_used": "3000",
+              "status": "working",
+              "estimated_health_percentage": 46
+            }
+        ]
+    },
+    {
+      "id": 4,
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2009",
+      "last_mot": "16/05/2014",
+      "mot_due": "12/03/2015",
+      "last_service": "17/07/2015",
+      "car_plan": "something.jpg",
+      "parts": [
+            {
+              "name": "shock_absorber",
+              "brand": "G&H",
+              "age": "7",
+              "miles_used": "3000",
+              "status": "failed",
+              "estimated_health_percentage": 47
+            },
+            {
+              "name": "front_brake_left",
+              "brand": "fiat",
+              "age": "3",
+              "miles_used": "400",
+              "status": "working",
+              "estimated_health_percentage": 45
+            },
+            {
+              "name": "front_brake_right",
+              "brand": "fiat",
+              "age": "7",
+              "miles_used": "3000",
+              "status": "working",
+              "estimated_health_percentage": 43
+            },
+            {
+              "name": "catalytic_converter",
+              "brand": "fiat",
+              "age": "7",
+              "miles_used": "3000",
+              "status": "working",
+              "estimated_health_percentage": 51
+            }
+        ]
     }
   ],
   "users": [
