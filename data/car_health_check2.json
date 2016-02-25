@@ -43,14 +43,6 @@
               "estimated_health_percentage": 26
             },
             {
-              "name": "rear_shock_absorber",
-              "brand": "G&H",
-              "age": "7",
-              "miles_used": "3000",
-              "status": "failed",
-              "estimated_health_percentage": 27
-            },
-            {
               "name": "shock_absorber",
               "brand": "fiat",
               "age": "3",
@@ -105,14 +97,6 @@
               "miles_used": "3000",
               "status": "working",
               "estimated_health_percentage": 34
-            },
-            {
-              "name": "rear_catalytic_converter",
-              "brand": "fiat",
-              "age": "7",
-              "miles_used": "3000",
-              "status": "working",
-              "estimated_health_percentage": 35
             }
         ]
     },
@@ -132,7 +116,7 @@
             "age": "3",
             "miles_used": "400",
             "status": "working",
-            "estimated_health_percentage": 61
+            "estimated_health_percentage": 65
           },
           {
             "name": "front_brake_right",
@@ -140,7 +124,7 @@
             "age": "7",
             "miles_used": "3000",
             "status": "working",
-            "estimated_health_percentage": 60
+            "estimated_health_percentage": 65
           },
           {
             "name": "rear_brake_left",
@@ -148,7 +132,7 @@
             "age": "3",
             "miles_used": "400",
             "status": "working",
-            "estimated_health_percentage": 62
+            "estimated_health_percentage": 65
           },
           {
             "name": "rear_brake_right",
@@ -156,15 +140,7 @@
             "age": "7",
             "miles_used": "3000",
             "status": "working",
-            "estimated_health_percentage": 63
-          },
-          {
-            "name": "rear_shock_absorber",
-            "brand": "G&H",
-            "age": "7",
-            "miles_used": "3000",
-            "status": "failed",
-            "estimated_health_percentage": 64
+            "estimated_health_percentage": 65
           },
           {
             "name": "shock_absorber",
@@ -180,7 +156,7 @@
             "age": "3",
             "miles_used": "400",
             "status": "working",
-            "estimated_health_percentage": 66
+            "estimated_health_percentage": 65
           },
           {
             "name": "front_left_light",
@@ -188,7 +164,7 @@
             "age": "7",
             "miles_used": "8000",
             "status": "working",
-            "estimated_health_percentage": 67
+            "estimated_health_percentage": 65
           },
           {
             "name": "front_right_light",
@@ -196,7 +172,7 @@
             "age": "7",
             "miles_used": "8000",
             "status": "working",
-            "estimated_health_percentage": 68
+            "estimated_health_percentage": 65
           },
           {
             "name": "rear_right_light",
@@ -204,7 +180,7 @@
             "age": "7",
             "miles_used": "8000",
             "status": "working",
-            "estimated_health_percentage": 69
+            "estimated_health_percentage": 65
           },
           {
             "name": "rear_right_light",
@@ -212,7 +188,7 @@
             "age": "7",
             "miles_used": "8000",
             "status": "working",
-            "estimated_health_percentage": 68
+            "estimated_health_percentage": 65
           },
           {
             "name": "catalytic_converter",
@@ -220,15 +196,7 @@
             "age": "7",
             "miles_used": "3000",
             "status": "working",
-            "estimated_health_percentage": 67
-          },
-          {
-            "name": "rear_catalytic_converter",
-            "brand": "fiat",
-            "age": "7",
-            "miles_used": "3000",
-            "status": "working",
-            "estimated_health_percentage": 64
+            "estimated_health_percentage": 65
           }
         ]
     },
@@ -248,7 +216,7 @@
             "age": "3",
             "miles_used": "400",
             "status": "working",
-            "estimated_health_percentage": 71
+            "estimated_health_percentage": 70
           },
           {
             "name": "front_brake_right",
@@ -256,7 +224,7 @@
             "age": "7",
             "miles_used": "3000",
             "status": "working",
-            "estimated_health_percentage": 72
+            "estimated_health_percentage": 71
           },
           {
             "name": "rear_brake_left",
@@ -264,7 +232,7 @@
             "age": "3",
             "miles_used": "400",
             "status": "working",
-            "estimated_health_percentage": 73
+            "estimated_health_percentage": 72
           },
           {
             "name": "rear_brake_right",
@@ -272,15 +240,7 @@
             "age": "7",
             "miles_used": "3000",
             "status": "working",
-            "estimated_health_percentage": 74
-          },
-          {
-            "name": "rear_shock_absorber",
-            "brand": "G&H",
-            "age": "7",
-            "miles_used": "3000",
-            "status": "failed",
-            "estimated_health_percentage": 75
+            "estimated_health_percentage": 73
           },
           {
             "name": "shock_absorber",
@@ -288,7 +248,7 @@
             "age": "3",
             "miles_used": "400",
             "status": "working",
-            "estimated_health_percentage": 76
+            "estimated_health_percentage": 74
           },
           {
             "name": "rear_shock_absorber",
@@ -296,7 +256,7 @@
             "age": "3",
             "miles_used": "400",
             "status": "working",
-            "estimated_health_percentage": 77
+            "estimated_health_percentage": 75
           },
           {
             "name": "front_left_light",
@@ -304,7 +264,7 @@
             "age": "7",
             "miles_used": "8000",
             "status": "working",
-            "estimated_health_percentage": 78
+            "estimated_health_percentage": 76
           },
           {
             "name": "front_right_light",
@@ -312,23 +272,23 @@
             "age": "7",
             "miles_used": "8000",
             "status": "working",
+            "estimated_health_percentage": 77
+          },
+          {
+            "name": "rear_right_light",
+            "brand": "bulbs",
+            "age": "7",
+            "miles_used": "8000",
+            "status": "working",
+            "estimated_health_percentage": 78
+          },
+          {
+            "name": "rear_right_light",
+            "brand": "bulbs",
+            "age": "7",
+            "miles_used": "8000",
+            "status": "working",
             "estimated_health_percentage": 79
-          },
-          {
-            "name": "rear_right_light",
-            "brand": "bulbs",
-            "age": "7",
-            "miles_used": "8000",
-            "status": "working",
-            "estimated_health_percentage": 80
-          },
-          {
-            "name": "rear_right_light",
-            "brand": "bulbs",
-            "age": "7",
-            "miles_used": "8000",
-            "status": "working",
-            "estimated_health_percentage": 81
           },
           {
             "name": "catalytic_converter",
@@ -336,15 +296,7 @@
             "age": "7",
             "miles_used": "3000",
             "status": "working",
-            "estimated_health_percentage": 82
-          },
-          {
-            "name": "rear_catalytic_converter",
-            "brand": "fiat",
-            "age": "7",
-            "miles_used": "3000",
-            "status": "working",
-            "estimated_health_percentage": 83
+            "estimated_health_percentage": 80
           }
         ]
     },
@@ -358,110 +310,94 @@
       "last_service": "17/07/2015",
       "car_plan": "something.jpg",
       "parts": [
-          {
-            "name": "front_brake_left",
-            "brand": "fiat",
-            "age": "3",
-            "miles_used": "400",
-            "status": "working",
-            "estimated_health_percentage": 23
-          },
-          {
-            "name": "front_brake_right",
-            "brand": "fiat",
-            "age": "7",
-            "miles_used": "3000",
-            "status": "working",
-            "estimated_health_percentage": 24
-          },
-          {
-            "name": "rear_brake_left",
-            "brand": "fiat",
-            "age": "3",
-            "miles_used": "400",
-            "status": "working",
-            "estimated_health_percentage": 25
-          },
-          {
-            "name": "rear_brake_right",
-            "brand": "fiat",
-            "age": "7",
-            "miles_used": "3000",
-            "status": "working",
-            "estimated_health_percentage": 26
-          },
-          {
-            "name": "rear_shock_absorber",
-            "brand": "G&H",
-            "age": "7",
-            "miles_used": "3000",
-            "status": "failed",
-            "estimated_health_percentage": 27
-          },
-          {
-            "name": "shock_absorber",
-            "brand": "fiat",
-            "age": "3",
-            "miles_used": "400",
-            "status": "working",
-            "estimated_health_percentage": 28
-          },
-          {
-            "name": "rear_shock_absorber",
-            "brand": "fiat",
-            "age": "3",
-            "miles_used": "400",
-            "status": "working",
-            "estimated_health_percentage": 29
-          },
-          {
-            "name": "front_left_light",
-            "brand": "bulbs",
-            "age": "7",
-            "miles_used": "8000",
-            "status": "working",
-            "estimated_health_percentage": 30
-          },
-          {
-            "name": "front_right_light",
-            "brand": "bulbs",
-            "age": "7",
-            "miles_used": "8000",
-            "status": "working",
-            "estimated_health_percentage": 31
-          },
-          {
-            "name": "rear_right_light",
-            "brand": "bulbs",
-            "age": "7",
-            "miles_used": "8000",
-            "status": "working",
-            "estimated_health_percentage": 32
-          },
-          {
-            "name": "rear_right_light",
-            "brand": "bulbs",
-            "age": "7",
-            "miles_used": "8000",
-            "status": "working",
-            "estimated_health_percentage": 33
-          },
-          {
-            "name": "catalytic_converter",
-            "brand": "fiat",
-            "age": "7",
-            "miles_used": "3000",
-            "status": "working",
-            "estimated_health_percentage": 34
-          },
-          {
-            "name": "rear_catalytic_converter",
-            "brand": "fiat",
-            "age": "7",
-            "miles_used": "3000",
-            "status": "working",
-            "estimated_health_percentage": 35
-          }
+        {
+          "name": "front_brake_left",
+          "brand": "fiat",
+          "age": "3",
+          "miles_used": "400",
+          "status": "working",
+          "estimated_health_percentage": 70
+        },
+        {
+          "name": "front_brake_right",
+          "brand": "fiat",
+          "age": "7",
+          "miles_used": "3000",
+          "status": "working",
+          "estimated_health_percentage": 71
+        },
+        {
+          "name": "rear_brake_left",
+          "brand": "fiat",
+          "age": "3",
+          "miles_used": "400",
+          "status": "working",
+          "estimated_health_percentage": 72
+        },
+        {
+          "name": "rear_brake_right",
+          "brand": "fiat",
+          "age": "7",
+          "miles_used": "3000",
+          "status": "working",
+          "estimated_health_percentage": 73
+        },
+        {
+          "name": "shock_absorber",
+          "brand": "fiat",
+          "age": "3",
+          "miles_used": "400",
+          "status": "working",
+          "estimated_health_percentage": 74
+        },
+        {
+          "name": "rear_shock_absorber",
+          "brand": "fiat",
+          "age": "3",
+          "miles_used": "400",
+          "status": "working",
+          "estimated_health_percentage": 75
+        },
+        {
+          "name": "front_left_light",
+          "brand": "bulbs",
+          "age": "7",
+          "miles_used": "8000",
+          "status": "working",
+          "estimated_health_percentage": 76
+        },
+        {
+          "name": "front_right_light",
+          "brand": "bulbs",
+          "age": "7",
+          "miles_used": "8000",
+          "status": "working",
+          "estimated_health_percentage": 77
+        },
+        {
+          "name": "rear_right_light",
+          "brand": "bulbs",
+          "age": "7",
+          "miles_used": "8000",
+          "status": "working",
+          "estimated_health_percentage": 78
+        },
+        {
+          "name": "rear_right_light",
+          "brand": "bulbs",
+          "age": "7",
+          "miles_used": "8000",
+          "status": "working",
+          "estimated_health_percentage": 79
+        },
+        {
+          "name": "catalytic_converter",
+          "brand": "fiat",
+          "age": "7",
+          "miles_used": "3000",
+          "status": "working",
+          "estimated_health_percentage": 80
+        }
         ]
     }
   ],
