@@ -75,7 +75,7 @@
               "estimated_health_percentage": 31
             },
             {
-              "name": "rear_right_light",
+              "name": "rear_left_light",
               "brand": "bulbs",
               "age": "7",
               "miles_used": "8000",
@@ -175,7 +175,7 @@
             "estimated_health_percentage": 65
           },
           {
-            "name": "rear_right_light",
+            "name": "rear_left_light",
             "brand": "bulbs",
             "age": "7",
             "miles_used": "8000",
@@ -275,7 +275,7 @@
             "estimated_health_percentage": 77
           },
           {
-            "name": "rear_right_light",
+            "name": "rear_left_light",
             "brand": "bulbs",
             "age": "7",
             "miles_used": "8000",
@@ -375,7 +375,7 @@
           "estimated_health_percentage": 77
         },
         {
-          "name": "rear_right_light",
+          "name": "rear_left_light",
           "brand": "bulbs",
           "age": "7",
           "miles_used": "8000",
